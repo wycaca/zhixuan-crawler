@@ -239,6 +239,3 @@ if __name__ == '__main__':
 
     # 下载
     # get_down_page()
-
-    # logging.info("日志测试" + url + str(id))
-
