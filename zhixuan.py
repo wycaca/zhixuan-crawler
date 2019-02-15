@@ -21,7 +21,7 @@ import urllib
 
 # 获取上级目录的绝对路径
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-log_dir = BASE_DIR + '/知轩爬虫.log'
+log_dir = BASE_DIR + '/zhixuan.log'
 # 获得一个logger对象，默认是root
 logger = logging.getLogger()
 # 日志输出到屏幕控制台
